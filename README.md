@@ -3,7 +3,7 @@
 This project uses ChatGPT, LangChain, and Streamlit to create an interactive chat interface for natural language processing.
 
 ## Image
-![Alt text]("https://github.com/JaswanthSudha/ChatGpt_LangChain/raw/main/img.png")
+![Alt text]("https://github.com/JaswanthSudha/ChatGpt_LangChain/raw/main/images/img.png")
 
 
 ## Table of Contents
